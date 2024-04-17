@@ -1,0 +1,119 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="rest-client-quickstart" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1698052639659" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1698052639659" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rest-client-quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vacanttarnished/repos/quarkus-quickstarts/rest-client-quickstart}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest-client-quickstart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/vacanttarnished/repos/quarkus-quickstarts/rest-client-quickstart}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/vacanttarnished/repos/quarkus-quickstarts/rest-client-quickstart/target}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="920000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3302239" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3298403" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info active="true" anchor="right" id="Maven" order="4" visible="true" weight="0.3302239" />
+      <unified_weights bottom="0.3298403" left="0.3302239" right="0.3302239" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Maven</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="332" key="FileChooserDialogImpl" timestamp="1701070240925">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="332" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1701070240925" />
+    <state width="1792" height="288" key="GridCell.Tab.0.bottom" timestamp="1698058005063">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1792" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1698058005063" />
+    <state width="1792" height="288" key="GridCell.Tab.0.center" timestamp="1698058005063">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1792" height="288" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1698058005063" />
+    <state width="1792" height="288" key="GridCell.Tab.0.left" timestamp="1698058005063">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1792" height="288" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1698058005063" />
+    <state width="1792" height="288" key="GridCell.Tab.0.right" timestamp="1698058005063">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1792" height="288" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1698058005063" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

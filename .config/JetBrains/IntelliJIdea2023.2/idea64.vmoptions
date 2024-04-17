@@ -1,0 +1,4 @@
+-Xmx3966m
+-Dide.managed.by.toolbox=/home/vacanttarnished/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=f303a572-410f-45c2-9700-15fa6829350c
+-Dtoolbox.notification.portFile=/home/vacanttarnished/.local/share/JetBrains/Toolbox/cache/ports/1955707269.port

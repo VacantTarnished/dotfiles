@@ -1,0 +1,4 @@
+color=~/.config/wofi/colors
+show=drun
+insensitive=true
+width=666

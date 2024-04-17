@@ -1,0 +1,89 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – pom.xml (untitled)" projectWorkspaceId="2X9otTsjmacAFdeXvHP55DrA3nO">
+              <option name="activationTimestamp" value="1698051142426" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.10072.27" />
+              <option name="buildTimestamp" value="1697000610442" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="22" y="56" width="1876" height="1002" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1698050871902" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/repos/quarkus-quickstarts/getting-started">
+          <value>
+            <RecentProjectMetaInfo frameTitle="getting-started – pom.xml (getting-started)" projectWorkspaceId="2X9pRd1Sg2kY5dvmyYifSin5n2H">
+              <option name="activationTimestamp" value="1698052638761" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.10072.27" />
+              <option name="buildTimestamp" value="1697000617873" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="22" y="56" width="1876" height="1002" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1698051143316" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/repos/quarkus-quickstarts/rest-client-quickstart">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rest-client-quickstart" projectWorkspaceId="2X9sTbO1LODqaJ4ZYzJCYxOcujv">
+              <option name="activationTimestamp" value="1701070243631" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.10072.27" />
+              <option name="buildTimestamp" value="1697000617873" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="22" y="91" width="1876" height="967" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1698052639335" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/School/nvs/OIDC-Server">
+          <value>
+            <RecentProjectMetaInfo frameTitle="OIDC-Server" projectWorkspaceId="2YkWpuHFQNcDk4Vsbx8UuIxXMec">
+              <option name="activationTimestamp" value="1706513994250" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.10072.27" />
+              <option name="buildTimestamp" value="1697000586629" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="22" y="56" width="1876" height="1002" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1701070244476" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/School/nvs/structuredconcurrency">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2bcUj6hNiJU2San91czTgNusPPl">
+              <option name="activationTimestamp" value="1706518634435" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.14015.106" />
+              <option name="buildTimestamp" value="1706158860000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1706513994984" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/School/nvs/structuredconcurrency" />
+    <option name="lastProjectLocation" value="$USER_HOME$/School/nvs" />
+  </component>
+</application>
